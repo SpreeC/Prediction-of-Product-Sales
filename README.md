@@ -1,5 +1,5 @@
 # Prediction-of-Product-Sales
--Cheyenne Cantwell
+- Cheyenne Cantwell
 #
 ###Business Problem:
 - The goal is to help the retailer understand the properties of products and outlets that play crucial roles in increasing sales. To do this I need to analyze the data and predict future sales of products.
